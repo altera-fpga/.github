@@ -1,5 +1,7 @@
 <img src="https://github.com/altera-fpga/altera-fpga.github.io/blob/main/docs/assets/altera.png" align="right" width="150" height="75">
 
+</br>
+
 # **Altera Developer Site**
 
 The altera-fpga site assists FPGA hardware and software developers with creating their applications by providing software, driver, example design and demonstration repositories that can be downloaded here for your custom design. 
